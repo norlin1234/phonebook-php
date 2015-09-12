@@ -1,0 +1,3 @@
+db : instinct_phonebook
+username : instinct_phone
+password: ph0neb00k
